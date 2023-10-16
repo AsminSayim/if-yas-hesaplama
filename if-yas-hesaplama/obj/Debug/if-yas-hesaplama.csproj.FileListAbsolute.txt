@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-yas-hesaplama\if-yas-hesaplama\bin\Debug\if-yas-hesaplama.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-yas-hesaplama\if-yas-hesaplama\bin\Debug\if-yas-hesaplama.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-yas-hesaplama\if-yas-hesaplama\bin\Debug\if-yas-hesaplama.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-yas-hesaplama\if-yas-hesaplama\obj\Debug\if-yas-hesaplama.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-yas-hesaplama\if-yas-hesaplama\obj\Debug\if-yas-hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-yas-hesaplama\if-yas-hesaplama\obj\Debug\if_yas_hesaplama.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-yas-hesaplama\if-yas-hesaplama\obj\Debug\if_yas_hesaplama.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-yas-hesaplama\if-yas-hesaplama\obj\Debug\if-yas-hesaplama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-yas-hesaplama\if-yas-hesaplama\obj\Debug\if-yas-hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-yas-hesaplama\if-yas-hesaplama\obj\Debug\if-yas-hesaplama.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-yas-hesaplama\if-yas-hesaplama\obj\Debug\if-yas-hesaplama.pdb
